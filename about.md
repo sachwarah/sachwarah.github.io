@@ -15,3 +15,5 @@ I've made a change, let's see what happens!!
 Another change
 
 Has this worked?
+
+![A boat](/images/boat.jpg)
