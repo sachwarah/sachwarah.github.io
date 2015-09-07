@@ -1,14 +1,12 @@
 # Site settings
-title: Sach Warah
+title: Jet Engines and JavaScript
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+A collection ofcode snippets and some thoughts from Sach Warah, a pilot, engineer and coder. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://sachwarah.github.io" # the base hostname & protocol for your site
 twitter_username: sachwarah
-#github_username:  jekyll
+github_username: sachwarah
 
 # Build settings
 markdown: kramdown
