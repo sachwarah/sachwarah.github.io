@@ -12,3 +12,6 @@ twitter_username: sachwarah
 
 # Build settings
 markdown: kramdown
+
+# Excerpt stuff
+excerpt_separator: <!--more-->
