@@ -5,7 +5,7 @@ date:   2015-09-06 21:00:00
 tags: jekyll how-to
 ---
 
-According to [Jekyll docs on Cloud9](https://docs.c9.io/docs/jekyll) this is the correct way of starting `jeykll serve` on Cloud 9.
+The [Jekyll docs on Cloud9](https://docs.c9.io/docs/jekyll) say that the correct way of starting `jeykll serve` on Cloud 9 is:
 
 ````
 jekyll serve --host $IP --port $PORT --baseurl ''
