@@ -16,4 +16,4 @@ Another change
 
 Has this worked?
 
-![A boat](/images/boat.jpg)
+![A boat]({{ site.url }}/images/boat.jpg)
