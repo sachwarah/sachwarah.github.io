@@ -1,4 +1,5 @@
 # Site settings
+title: Cloud Surfer
 name: Cloud Surfer
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
