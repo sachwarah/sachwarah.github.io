@@ -11,7 +11,7 @@ I found a very helpful post on [Joe Kampschmidt's Code](http://www.jokecamp.com/
 
 The code that does all of the work is below.
 
-````
+{% highlight %}
 {% for tag in site.tags %}
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
@@ -28,6 +28,7 @@ The code that does all of the work is below.
 {% endfor %}
 </ul>
 {% endfor %}
-````
+{% endhighlight %}
+
 
 So now I need to understand all the liquid template syntax.
