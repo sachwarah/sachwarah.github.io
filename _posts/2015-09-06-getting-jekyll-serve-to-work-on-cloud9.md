@@ -7,7 +7,7 @@ tags: jekyll how-to cloud9
 
 The [Jekyll docs on Cloud9](https://docs.c9.io/docs/jekyll) say that the correct way of starting `jeykll serve` on Cloud 9 is:
 
-````
+```
 jekyll serve --host $IP --port $PORT --baseurl ''
-````
+```
 <!-- more -->
