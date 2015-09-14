@@ -13,7 +13,7 @@ I found a very helpful post on [Joe Kampschmidt's Code](http://www.jokecamp.com/
 The code that does all of the work is below.
 
 {% raw %}
-```ruby
+```Liquid
 {% for tag in site.tags %}
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
