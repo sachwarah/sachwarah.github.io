@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Starting rails server on Cloud 9!"
+date:   2016-02-01 11:40:00
+tags: ruby rails how-to cloud9
+---
+
+The [Running a rails app](https://docs.c9.io/docs/jekyll) page on Cloud9 says that the correct way of starting `rails server` on Cloud9 is:
+
+```
+rails s -b $IP -p $PORT
+```
+<!-- more -->
+
+
+
+
+
