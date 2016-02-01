@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Starting rails server on Cloud 9!"
+title:  "Starting rails server on Cloud9"
 date:   2016-02-01 11:40:00
 tags: ruby rails how-to cloud9
 ---
