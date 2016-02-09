@@ -9,8 +9,5 @@ url: "http://sachwarah.github.io" # the base hostname & protocol for your site
 twitter_username: sachwarah
 github_username: sachwarah
 # Build settings
-markdown: redcarpet
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 # Excerpt stuff
 excerpt_separator: <!--more-->
