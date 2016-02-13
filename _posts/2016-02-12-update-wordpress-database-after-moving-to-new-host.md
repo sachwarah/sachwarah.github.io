@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Update a Wordpress Database after changing hosts"
-date:   2016-02-01 11:40:00
+date:   2016-02-13 12:00:00
 tags: wordpress mysql how-to
 ---
 
