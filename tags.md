@@ -3,11 +3,20 @@ layout: page
 title: Tags
 permalink: /tags/
 ---
-{% for tag in site.tags.sort %}
+{% assign ordered_tags = site.tags | sort %}
+<ul>
+{% for tag in ordered_tags %}
+  {% assign t = tag | first %}
+  <li><a href="#{{ t | downcase }}">{{ t | downcase }}</a></li>
+{% endfor %}
+</ul>
+  
+
+{% for tag in ordered_tags %}
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
 
-{{ t | downcase }}
+<div id="{{ t | downcase }}">{{ t | downcase }}</div>
 <ul>
 {% for post in posts %}
   {% if post.tags contains t %}
