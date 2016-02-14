@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to setup a redirect in .htaccess after ou have moved a website"
+title:  "How to setup a redirect in .htaccess after you have moved a website"
 date:   2016-02-13 12:00:00
 tags: wordpress how-to
 ---
