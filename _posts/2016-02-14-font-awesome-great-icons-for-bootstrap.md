@@ -18,4 +18,4 @@ stacked, animated and integrated into a [bootstrap](getbootstrap.com) theme easi
 <i class="fa fa-fighter-jet fa-4x"></i>
 <i class="fa fa-fighter-jet fa-5x"></i>
 
-<i class="fa fa-rocket fa-2x fa-spin"></i>
+<i class="fa fa-spin fa-2x fa-spin"></i>
